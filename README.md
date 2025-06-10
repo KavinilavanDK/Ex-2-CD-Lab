@@ -1,6 +1,7 @@
 # NAME: KAVINILAVAN DK
 # REG.NO: 212223230103
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
+# Date: 9.04.2025
 # AIM
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM
